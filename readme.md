@@ -1,4 +1,4 @@
-# Resource Rise - VIT Bhopal 1st Year Student Resources
+# Resource Rise - VIT Bhopal Student Resources
 
 Welcome to Resource Rise, a comprehensive collection of resources and study materials tailored for 1st-year students at VIT Bhopal. This repository is designed to assist you in your academic journey by providing access to a wide range of materials and tools that can help you excel in your courses and ensure a successful academic career. Whether you're a fresher or looking to enhance your knowledge, Resource Rise is here to support you.
 
